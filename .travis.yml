@@ -41,6 +41,7 @@ addons:
   apt:
     packages:
       - libpopt-dev
+      - ninja-build
 
   coverity_scan:
     project:
